@@ -1,5 +1,0 @@
-This project builds a 2-dimentional singly linked list in java.
-Three files:
-  (a) Creates the properties of a node
-  (b) Adds properties of a 2-dimentional singly linked list and functionalities such as add a new row, column or delete new row or column.
-  (c) Test code in (b)
